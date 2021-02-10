@@ -1,69 +1,68 @@
-{
-    "peliculas_marvel":[
-        {
-            "titulo": "Spider-Man: lejos de casa",
-            "genero": "Acción/Aventura",
-            "idioma": "Ingles",
-            "duracion": 129,
-            "calificacion": 7.5,
-            "resumen": "Peter Parker decide pasar unas merecidas vacaciones en Europa junto a MJ, Ned y el resto de sus amigos. Sin embargo, Peter debe volver a ponerse el traje de Spider-Man cuando Nick Fury le encomienda una nueva misión: frenar el ataque de unas criaturas que están causando el caos en el continente.",
-            "anio_produccion": 2019,
-            "formato": "3D",
-            "director": "Jon Watts",
-            "clasificacion": "+12",
-            "imagen": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/fc/Spider_Man_Far_From_Home_-_P%C3%B3ster_EEUU.png/revision/latest?cb=20190522204227&path-prefix=es"
-        },
-        {
-            "titulo": "Thor",
-            "genero": "Acción",
-            "idioma": "Ingles",
-            "duracion": 115,
-            "calificacion": 7,
-            "resumen": "El poderoso pero arrogante dios Thor es expulsado de Asgard para vivir entre los humanos en Midgard (la Tierra), donde pronto se convierte en uno de sus mejores defensores.",
-            "anio_produccion": 2011,
-            "formato": "3D",
-            "director": "Kenneth Branagh",
-            "clasificacion": "+12",
-            "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quever.news%2Fcine%2F2020%2F9%2F12%2Fse-acerca-el-fin-chris-hemsworth-revelo-hasta-cuando-interpretara-thor-796.html&psig=AOvVaw2TExKFciTj4MFN9qZmgqNm&ust=1613073230768000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLii9ZmM4O4CFQAAAAAdAAAAABAD"
-        },
-        {
-            "titulo": "Captain Marvel",
-            "genero": "Acción",
-            "idioma": "Ingles",
-            "duracion": 123,
-            "calificacion": 6.9,
-            "resumen": "Carol Danvers se convierte de uno de los héroes más poderosos del universo cuando la Tierra se ve atrapada en medio de una guerra entre dos razas alienígenas.",
-            "anio_produccion": 2019,
-            "formato": "IMAX-3D",
-            "director": "Anna Boden",
-            "clasificacion": "+12",
-            "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarvelcinematicuniverse.fandom.com%2Fes%2Fwiki%2FCaptain_Marvel_(pel%25C3%25ADcula)&psig=AOvVaw3UrgXZ4X058njj7UMq09Vs&ust=1613073625422000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj5gNaN4O4CFQAAAAAdAAAAABAD"
-        },        
-        {
-            "titulo": "Avengers Endgame",
-            "genero": "Acción",
-            "idioma": "Ingles",
-            "duracion": 181,
-            "calificacion": 8.4,
-            "resumen": "Después de que Thanos haya aniquilado a la mitad del universo, los Vengadores supervivientes deben hacer todo lo posible por deshacer tal atrocidad.",
-            "anio_produccion": 2019,
-            "formato": "IMAX-3D",
-            "director": "Anthony Russo",
-            "clasificacion": "+12",
-            "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAvengers%3A_Endgame&psig=AOvVaw0dnQqI7h20eLIjzfFVctyd&ust=1613073857084000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjB2sSO4O4CFQAAAAAdAAAAABAD"
-        },
-        {
-            "titulo": "Avengers: Infinity War",
-            "genero": "Acción/Ciencia ficción",
-            "idioma": "Ingles",
-            "duracion": 160,
-            "calificacion": 8.4,
-            "resumen": "Los superhéroes se alían para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado. Si Thanos logra reunir las seis gemas del infinito: poder, tiempo, alma, realidad, mente y espacio, nadie podrá detenerlo.",
-            "anio_produccion": 2018,
-            "formato": "2D",
-            "director": "Joe Russo, Anthony Russo",
-            "clasificacion": "+12",
-            "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOV0JVW82VnxHBgHu1syHyD_cTSYAgLr76gw9ejI4cmySydjmw"
-        }
-    ]
-}
+[
+    {
+        "titulo": "Spider-Man: lejos de casa",
+        "genero": "Acción/Aventura",
+        "idioma": "Ingles",
+        "duracion": 129,
+        "calificacion": 7.5,
+        "resumen": "Peter Parker decide pasar unas merecidas vacaciones en Europa junto a MJ, Ned y el resto de sus amigos. Sin embargo, Peter debe volver a ponerse el traje de Spider-Man cuando Nick Fury le encomienda una nueva misión: frenar el ataque de unas criaturas que están causando el caos en el continente.",
+        "anio_produccion": 2019,
+        "formato": "3D",
+        "director": "Jon Watts",
+        "clasificacion": "+12",
+        "imagen": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/fc/Spider_Man_Far_From_Home_-_P%C3%B3ster_EEUU.png/revision/latest?cb=20190522204227&path-prefix=es"
+    },
+    {
+        "titulo": "Thor",
+        "genero": "Acción",
+        "idioma": "Ingles",
+        "duracion": 115,
+        "calificacion": 7,
+        "resumen": "El poderoso pero arrogante dios Thor es expulsado de Asgard para vivir entre los humanos en Midgard (la Tierra), donde pronto se convierte en uno de sus mejores defensores.",
+        "anio_produccion": 2011,
+        "formato": "3D",
+        "director": "Kenneth Branagh",
+        "clasificacion": "+12",
+        "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quever.news%2Fcine%2F2020%2F9%2F12%2Fse-acerca-el-fin-chris-hemsworth-revelo-hasta-cuando-interpretara-thor-796.html&psig=AOvVaw2TExKFciTj4MFN9qZmgqNm&ust=1613073230768000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLii9ZmM4O4CFQAAAAAdAAAAABAD"
+    },
+    {
+        "titulo": "Captain Marvel",
+        "genero": "Acción",
+        "idioma": "Ingles",
+        "duracion": 123,
+        "calificacion": 6.9,
+        "resumen": "Carol Danvers se convierte de uno de los héroes más poderosos del universo cuando la Tierra se ve atrapada en medio de una guerra entre dos razas alienígenas.",
+        "anio_produccion": 2019,
+        "formato": "IMAX-3D",
+        "director": "Anna Boden",
+        "clasificacion": "+12",
+        "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarvelcinematicuniverse.fandom.com%2Fes%2Fwiki%2FCaptain_Marvel_(pel%25C3%25ADcula)&psig=AOvVaw3UrgXZ4X058njj7UMq09Vs&ust=1613073625422000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj5gNaN4O4CFQAAAAAdAAAAABAD"
+    },        
+    {
+        "titulo": "Avengers Endgame",
+        "genero": "Acción",
+        "idioma": "Ingles",
+        "duracion": 181,
+        "calificacion": 8.4,
+        "resumen": "Después de que Thanos haya aniquilado a la mitad del universo, los Vengadores supervivientes deben hacer todo lo posible por deshacer tal atrocidad.",
+        "anio_produccion": 2019,
+        "formato": "IMAX-3D",
+        "director": "Anthony Russo",
+        "clasificacion": "+12",
+        "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAvengers%3A_Endgame&psig=AOvVaw0dnQqI7h20eLIjzfFVctyd&ust=1613073857084000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjB2sSO4O4CFQAAAAAdAAAAABAD"
+    },
+    {
+        "titulo": "Avengers: Infinity War",
+        "genero": "Acción/Ciencia ficción",
+        "idioma": "Ingles",
+        "duracion": 160,
+        "calificacion": 8.4,
+        "resumen": "Los superhéroes se alían para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado. Si Thanos logra reunir las seis gemas del infinito: poder, tiempo, alma, realidad, mente y espacio, nadie podrá detenerlo.",
+        "anio_produccion": 2018,
+        "formato": "2D",
+        "director": "Joe Russo, Anthony Russo",
+        "clasificacion": "+12",
+        "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOV0JVW82VnxHBgHu1syHyD_cTSYAgLr76gw9ejI4cmySydjmw"
+    }
+]
+
